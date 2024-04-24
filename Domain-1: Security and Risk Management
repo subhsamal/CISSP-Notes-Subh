@@ -1,0 +1,220 @@
+1. Professional ethics
+	• (ISC)2 Code of Ethics:
+		○ The safety and welfare of society and the common good, duty to our principals and to each other, requires that we adhere, and be seen to adhere, to the highest ethical standards of behavior.
+	• Organizational Code of Ethics:
+		○ An organizational code of ethics is a policy document approved and supported by the organization’s senior management. 
+		○ The code dictates modes of acceptable behavior and is often combined with the overall organizational personnel policies and it may outline the organization’s mission and core values.
+2. Understand and apply security concepts:
+	• CIA triad
+		○ Confidentiality, Integrity and Availability of assets is the basic goal of information security
+		○ Confidentiality: To prevent unauthorized disclosure of information
+		○ Integrity: Data is kept free from unauthorized modifications throughout the life of that data 
+		○ Availability: Data is available when it is needed, where it is needed, and in the form that is needed.
+	• Authenticity, Non-repudiation, Privacy and Safety
+		○ Authenticity: It implies information is genuine and comes from a trusted authority, in a trustworthy, reliable and verifiable fashion.
+		○ Non-repudiation: Non-repudiation is the ability of a system to prevent, deny and detect attempts to deny the authorship, integrity, transmission or modification of information within or leaving that system. 
+		○ Privacy: 
+			§ Privacy has many definitions in ethics, law and custom; these definitions have changed throughout recorded history. During the computer age, however, most of our thinking about privacy has been shaped by legal frameworks adopted by the U.S., Canada, Australia, New Zealand and many European nations.
+			§ The Organization for Economic Co-operation and Development (OECD) first published the OECD Privacy Guidelines back in 1980 (it was revised in 2013). These were the first internationally agreed privacy principles.
+			§ According to GDPR, data about anyone in the EU and the European Economic Area (EEA) may only be gathered or processed under specific cases, and with certain conditions. 
+			§  individuals’ right to privacy: Protecting the data that could be used to identify a person, its personally identifiable information (PII), is the basis of maintaining the individual’s right to privacy.
+		○ 
+	• Triple-A (AAA) of access control:
+		○ Authenticity, Authorization, and Audit
+
+3. Security Governance principles:
+	• Security governance is the policies, roles and processes the organization uses to make security decisions.
+	• Security governance focuses on the meta-processes of security and risk reduction.
+		○  it manages the ways in which policies get written, people are trained, and actions are performed so that security and safety needs are met.
+		○ It has to align with the organization’s goals and objectives.
+	• Merger & Acquisitions:
+		○ These merger and acquisition (M&A) risks often involve the gaining organization inheriting the legacy systems, policies, procedures and data of the business being acquired or merged. 
+		○ Oftentimes, these acquired organizations did not practice effective information systems security, systems configuration management, or other reasonable and prudent information risk reduction measures. 
+		○ The decision to acquire and merge is often made at the highest levels of both organizations, and it usually does not involve a detailed assessment of assets and risks.
+	• Due diligence vs Due care:
+		○ Due care is a legal obligation to act reasonably and responsibly. It's what the organization owes its customers. Due diligence is a proactive approach to identifying and mitigating risks.
+			§ Due care requires a person to take all reasonable and prudent actions to plan and carry out any task or responsibility assigned to them.
+			§ Due diligence requires a person to take all reasonable and prudent actions to monitor, control, manage and, as necessary, redirect or alter the plans and actions they are responsible for.
+	• Policy, Procedures, Guidelines and Standards :
+		○ Policy: In most cases, policies are formally prepared, authoritatively issued directions or statements of intent that senior leadership provides to the organization. 
+			§ Some of these describe the organization’s strategic goals and objectives, often with priorities and planning horizons as well. 
+			§ Other policies can set (or establish) lower-level goals objectives and plans, which should be subordinate to and aligned with the broader strategic ones. 
+		○ Procedures: Procedures define the explicit, repeatable activities necessary to accomplish a specific task or set of tasks. They are considered lower-level documents in that they provide supporting data, decision criteria or other explicit knowledge needed by each task.
+		○ Guidelines: Guidelines act as advisory information and can offer insights drawn from experience and observation. They can clarify expectations of an activity or provide alternatives that can be used to accomplish tasks and attain goals. 
+			§ Guidelines are not mandates, but rather are recommendations and suggestions.
+		○ Standards: The term standards covers a broad range of issues and ideas. Some are very broad and strategic, such as NIST SP 800-37 Rev 2 (Risk Management Framework)8 or ISO/IEC 27000, while others specify physical, electrical or other detailed attributes of products, systems, devices or connectors. 
+			§ Standards can be internally developed for use by an organization or published by a standards body such as ISO/IEC or the IEEE.
+	• Governance Frameworks:
+		○ ISO 270xx series 
+		○ Control Objectives for Information and Related Technologies (COBIT): 
+			§ Created and maintained by ISACA, the COBIT framework (currently COBIT 5) is designed as a way to manage and document enterprise IT and IT security functions for an organization. 
+			§ COBIT widely uses a governance and process perspective for resource management and is intended to address IT performance, security operations, risk management and regulatory compliance.
+		○ ITIL: An IT service delivery set of best practices.
+			§ ITIL concentrates on how an organization’s IT environment should enhance and benefit its business goals. 
+			§ ITIL is also mapped to the ISO 20000 standard, perhaps the only non-ISO standard to have this distinction. 
+	• Cybersecurity Frameworks:
+		○ International Standards Organization (ISO) 270XX: 
+			§ ISO 270xx series is globally recognized, and it is probably the most pervasive and used source of security standards outside the U.S. (American organizations often use standards from other sources). 
+			§ ISO 27001 is known as the information security management system (ISMS) and is a comprehensive, holistic view of security governance within an organization, mostly focused on policy. 
+			§ The ISO 270xx series has multiple documents and auditable standards, expanding the original requirements described in the ISO 27001.
+		○ Risk Management Framework (RMF). The U.S. National Institute of Standards and Technology (NIST) publishes two methods that work in concert (similar to how ISO 27001 and 27002 function); the Risk Management Framework (RMF), and the applicable list of security and privacy controls that goes along with it (respectively, these documents are Special Publications (SPs) 800-37 and 800-53). 
+		○ HITRUST Common Security and Privacy Framework (CSF). 
+			§ HITRUST is an American company who established the HITRUST CSF (supported by both a non-profit and for-profit entities) in collaboration with healthcare, technology and information security organizations. 
+		○ Cloud Security Alliance (CSA) Security, Trust, and Assurance Registry (STAR). 
+			§ CSA is a volunteer organization with participant members from both public and private sectors, concentrating—as the name suggests—on security aspects of cloud computing. The CSA publishes standards and tools for industry and practitioners, at no charge.
+			§ The STAR program has three tiers, 1–3, in ascending order of complexity. 
+				□ Tier 1 only requires the vendor self-assessment, using CAIQ. 
+				□ Tier 2 is an assessment of the organization by an external auditor certified by CSA to perform CAIQ audits. 
+				□ Tier 3 is in draft form as of publication; it will require continuous monitoring of the target organization by independent, certified entities.
+	• Risk Frameworks:
+		○ ISO. Standards 31000: Risk Management—Principles and Guidelines and 27005:
+		○ NIST SP 800-37. NIST SP800-37
+	
+4. Compliance, Privacy, Data Protection and other requirements
+	• Compliance is adherence to a mandate, regardless of its source. Almost every organization is required to demonstrate compliance with mandates. 
+	• The tools, processes and activities used to perform compliance reviews are referred to as audits (or auditing).
+	• The Right to Be Forgotten:
+		○ The right to be forgotten is a principle that has been established in EU law and regulation. 
+		○ According to the 2018 GDPR, anyone in the EU and European Economic Area (EEA) has the right to request that a data custodian, controller, owner, or processor delete information that pertains to them when it no longer serves its intended purpose or has become obsolete or inaccurate.
+		○ One legitimate concern with the “right to be forgotten” is that it may conflict with other established legal processes for ensuring privacy, protecting against defamation, libel, or slander Legal and regulatory issues 
+	• Data Portability:
+		○ The 1996 Health Insurance Portability and Accountability Act (HIPAA), the 2018 GDPR, and other comparable frameworks define the circumstances in which a data subject has the right to request that data about them held by one data controller be made available in a form that lets the subject transfer that data to another controller for use. 
+		○ Data portability must be allowed without hindrance (and sometimes without fees) to the data subject.
+	• Data Localization
+		○ Cross-Border Privacy Rules (CBPR) 
+	• Privacy and E-discovery in U.S. Law:
+		○ 4th Amendment: 
+			§ As the Fourth Amendment to the U.S. Constitution states, people are protected from unreasonable searches and seizures by the government. The Fourth Amendment, however, is not a guarantee against all searches and seizures but only those that are deemed unreasonable under the law. 
+			§ Fourth Amendment protection in the U.S. restricts what government can do in its efforts to obtain information; it makes no restrictions whatsoever on what private organizations can do with information that they own, control, possess or use. 
+		○ The USA PATRIOT Act extended the government’s powers of search and seizure by allowing National Security Letters to be written and served on any information owner, controller or custodian—without the action of a court or the use of a subpoena or search warrant. 
+			§ This Act, along with laws pertaining to the detection, prevention and disruption of money laundering activities, also prohibits an organization from disclosing to the data subjects that they have been served with a National Security Letter or other such discovery motion.
+		○ In 2012, the U.S. government unveiled the Consumer Privacy Bill of Rights as part of a comprehensive blueprint to protect individual privacy rights and give users more control over how their information is handled by organizations that are collecting such information.
+	• GDPR Data Protection Principles:
+		○ The GDPR is a European regulation that addresses personal data protection, deeming it an individual human right. GDPR is perhaps the single most powerful and influential regulation associated with IT and data security in the world. 
+		○ GDPR codifies six broad principles regarding the use of personal data:
+			§ Lawfulness, fairness and transparency
+			§ Purpose limitation
+			§ Data minimization
+			§ Accuracy
+			§ Storage limitation
+			§ Integrity and confidentiality
+	• The Asia-Pacific Economic Cooperation (APEC) Council
+		○ Data protection and privacy regulations for the 21 countries that are APEC members throughout the Asia and Pacific region. 
+	• Intellectual property (IP): 
+		○ IP pertains to intangible creations of human creativity, such as copyrights of an original piece (such as literature, poetry or screenplays), trademarks (such as brand logos or catch phrases) and trade secrets. 
+		○ It is important to distinguish the idea (the IP) from the media where it is stored (or other physical expressions of that idea). Software is a form of IP, and its rights owners have a legal and ethical right to be paid for its use, and thus, end-user license agreements (EULAs) establish that end users pay for the right to use that software, rather than taking ownership of a copy of it.
+5. Investigation Types:
+	• There are four main types of investigations:
+		○ Administrative (internal)
+		○ Civil
+		○ Regulatory
+		○ Criminal
+6. Business Continuity (BC):
+	• Standards: 
+		○ NIST SP 800-34: Federal information system contingency planning
+		○ ISO 223XX Series: 
+	• Business Impact Analysis (BIA)
+		○ Survey.
+		○ Financial audit
+		○ Customer response
+		○ Industry standards/best practices
+	• The maximum allowable downtime (MAD), also referred to as the maximum tolerable downtime (MTD) or maximum allowable outage (MAO), is the amount of time that the mission or business process can be disrupted without causing significant or unacceptable harm to the organization’s mission.
+	• The recovery time objective (RTO) is the target time set for recovering from any interruption— the RTO must necessarily be less than the MAD. 
+	• The recovery point objective (RPO) is a measure of how much data the organization can lose before unacceptable disruption to the organization’s mission or business. 
+7. Personnel security policies and procedures
+	• Candidate Screening and Hiring
+	• Employment Agreements and Policies
+	• Onboarding, Transfers and Termination Processes
+	• Acceptable use policies (AUPs) for all personnel includes:
+		○ Data access 
+		○ System access 
+		○ Data disclosure 
+		○ Passwords 
+		○ Data retention 
+		○ Internet usage
+		○ Company device usage
+	• Non-Disclosure Agreements (NDAs)
+		○ NDAs are formal agreements that restrict the sharing of information disclosed between two parties to any third party without prior consent. 
+		○ NDAs are also known as confidentiality agreements (CAs), confidential disclosure agreements (CDAs), proprietary information agreements (PIAs) or secrecy agreements (SAs). 
+		○ Legal document restricting information disclosed by the signing parties. 
+		○ NDA Types:
+			§ Unilateral
+			§ Bilateral
+			§ Multilateral
+			§ Non-compete agreement
+8. Risk management
+	• A risk is a possible event which can have a negative impact upon the organization.
+	• A hazard is a precondition of a system, workplace or environment that could cause a risk event to happen accidentally, that is, without being the conscious intent of the person involved in that event.
+		○ Earthquakes, hurricanes or weather conditions that could lead to large-scale wildfires are more properly classed as hazards, rather than threats—there is no human intention behind a thunderstorm. Pandemics are also hazards, not threats. 
+	• A vulnerability is an inherent weakness or flaw in a system or component, which if triggered or acted upon could cause a risk event to occur.
+	• A threat is a human actor or group that makes the deliberate, intentional decision to take actions to exploit (or make use of) the vulnerabilities of a target organization’s systems, as part of achieving or furthering the threat’s own goals or objectives.
+	
+	• Risk management is a set of plan–do–check–act (PDCA) cycles 
+	• 
+	• Risk Types:
+		○ Asset-based
+		○ Outcomes-based and process-based
+		○ Vulnerability-based
+		○ Threat-based
+	• Risk mitigation is the taking of actions to prevent or reduce the possibility of a risk event or its impact.
+		○ ISO 27005:2018’s use of modification does add emphasis to the broader cultural and environmental factors that may need to be changed as part of a risk treatment process.
+	• Risk avoidance is the decision to cease operating some or all the activities of the organization that are exposed to a particular risk. 
+	• Risk transference is the practice of paying another party to accept the financial impact of the harm resulting from a risk being realized, in exchange for payment of a fractional amount of the full impact cost. 
+	• Risk acceptance is the converse of avoidance
+		○ Determining that the potential benefits of a business function outweigh the possible risk impact/likelihood and performing that business function with no other action.
+	•  Risk exposure 
+		○ An exposure window measures over time the likelihood or probability of occurrence of a risk event.
+		○ An exposure factor (EF) is an estimate of the fraction of an asset’s or outcome’s value to the organization that is reduced by a single occurrence of a risk event. 
+		○ An exposure estimate is a description of how certain risks are categorically much lower (or higher) than others, for a given organization or person. 
+	• Risk Assessment and Analysis
+		○ Qualitative risk assessment gives a relative ranking, ordering or estimate of the probability of occurrence of a particular risk, and of the loss or impact of that risk; these are usually expressed in uncalibrated terms such as “high” or “low,” “seldom” or “often,” “moderate” or “severe,” with the normal meanings of these words allowing two or more risks to be compared. 
+		○ Quantitative risk assessment applies measurement techniques to assign a numeric value to the probability of occurrence of a particular risk and to the magnitude and units of the loss or impact of that risk. Probabilities of occurrence would be expressed per unit of time, such as a 10 percent chance of occurrence during a given year; impacts might be in millions of Euros.
+	• Risk Assessment and Treatment Decisions
+		○ Annual loss expectancy (ALE): ALE = SLE × ARO
+			§ The annual rate of occurrence (ARO) is the number of times per year a given impact is expected, expressed as a number.
+			§ The single loss expectancy (SLE) is the expected impact related to a particular risk (the risk being assessed).
+		○ SLE = AV × EF
+			§ exposure factor (EF)
+			§ asset value (AV) 
+	• Risk Maturity Modeling
+		○ key performance indicators (KPIs) 
+			
+9. Threat Modeling
+	○ Microsoft STRIDE
+		§ Spoofing identity
+		§ Tampering with data
+		§ Repudiation
+		§ Information disclosure
+		§ Denial of service (DoS)
+		§ Elevation of privilege
+	○ OCTAVE (Created by Carnegie-Mellon University)
+		§ designed for viewing the overall risk of IT systems across an organization. Published with two variants, OCTAVE for large organizations, OCTAVE-S for smaller operations.
+	○ Trike: An open-source methodology and toolset from the Massachusetts Institute of Technology (MIT) that has not been updated/revised for some time
+10. Security Control
+	• Types of Controls:
+		○ Technical/logical controls. Controls implemented with or by automated or electronic systems. 
+		○ Physical controls. Controls implemented through a tangible mechanism. 
+		○ Administrative controls. Controls implemented through policy and procedure.
+	• Security Control Categories
+		○ Directive (administrative)
+		○ Deterrent
+			§ Surveillance cameras
+		○ Preventive
+		○ Compensating
+		○ Detective
+			§ live monitoring
+		○ Corrective
+		○ Recovery
+	
+11. Supply Chain Risk Management (SCRM)
+	• Audit methodologies for assessing the security of external organizations
+		○ Cloud Security Alliance (CSA) Security, Trust and Assurance Registry (STAR) evaluation. The CSA offers a registration program for cloud providers, which can include certified external auditors, depending on the STAR Level the target organization seeks.
+	• Service-Level Requirements
+		
+12. Security awareness and Training
+	• Education, Training and Awareness
+		○ Education: learning activity focused on cause and effect
+			§ The overall goal of education is to help learners improve their understanding of these ideas, their ability to relate them to their own experiences and to apply that learning in useful ways.
+		○ Training
+			§ Learning activity focused on building proficiency in a specific set of skills or actions
+		○ Awareness. These are learning activities that attract and engage the learner’s attention by acquainting them with aspects of an issue, concern, problem or need. 
