@@ -1,0 +1,89 @@
+1. Identify and classify information and assets:
+	• The IT Asset Management Life cycle 
+	• The Data Security Life cycle. 
+
+2. Data Sensitivity Levels and Labels:
+	• Highly restricted:
+		○ Compromise of data with this sensitivity label could possibly put the organization’s future existence at risk. Compromise could lead to substantial loss of life, injury or property damage, and the litigation and claims that would follow.
+	• Moderately restricted: 
+		○ Compromise of data with this sensitivity label could lead to loss of temporary competitive advantage, loss of revenues or disruption of planned investments or activities.
+	• Low sensitivity: 
+		○ Sometimes called “internal use only.” Compromise of data with this sensitivity label could cause minor disruptions, delays or impacts.
+	• Unrestricted public data: 
+		○ As this data is already published, no harm can come from further dissemination or disclosure.
+3. The Data Security Life cycle:
+	• Create: Creation is the generation or acquisition of new content, or the iteration or updating of existing content.
+		○ Preferred time for data classification
+	• Store
+	• Use
+		○ Most vulnerable state since data likely to be in plain text. 
+	• Share
+	• Archieve
+	• Destroy
+4. Data Roles
+	• The data owner:  
+		○ Accountable for determining the value of the data that they own 
+		○ Accountable for the protection of the data. 
+		○ Accountable for defining policies for access of the data and clearly defining and communicating the responsibilities for data stewards, data custodians and data processors.
+	• Data stewards are commonly responsible for data content, context and associated business rules within the organization.
+	• Data custodians are responsible for the protection of the data while it is in their custody. 
+		○ Safe custody, transport, storage and processing of the data
+		○ Understanding and compliance of policies in regard to the protection of the data.
+	• Data processors are the entities that process the data on behalf of the data controller. 
+	• The Data subject is the individual who is described or identified by the data, or whom the data refers to. 
+		○ This can include PII, nonpublic personal information (NPI) or other categories of information that must be kept confidential, such as transaction histories.
+5. Data Destruction
+	• Clearing:
+		○ writing multiple patterns of random values throughout all storage media 
+		○ Clobbering
+		○ Zeroizing
+	• Purging
+		○ Eliminates the chance that residual physical effects from the writing of the original data values may still be recovered, even after the system is cleared.
+	• Physical destruction of the device or system is the ultimate remedy to data remanence. 
+6. Determine data security controls and compliance requirements 
+	• Data States
+		○ Data at rest
+			§ Not being transmitted or processed 
+		○ Data in motion
+			§ Not being processed
+		○ Data in use
+			§ being viewed, generated, updated, appended or erased
+			§ hardest to protect, since it must be in open (plaintext) form
+	• Data Encryption
+		○ Link encryption also encrypts routing data, communications nodes need to decrypt the data to continue routing. 
+			§ Service providers
+		○ End to End:
+			§ An example of end-to-end encryption would be a virtual private network (VPN) connection
+	• Applicable Types of Controls
+		○ Administrative controls: Implemented through policies and procedures.
+		○ Technical/logical controls: Implemented with or by automated or electronic systems such as firewalls, access control lists or radio frequency identification (RFID) badges.
+		○ Physical controls: Implemented through a tangible mechanism, such as fences, security guards, locks or alarms.
+	• Security Control Categories 
+		○ Directive control
+			§ administrative in nature e.g. signage, policies and procedures
+			§ Conveyed with education, training and awareness techniques
+		○ Deterrent control 
+			§ Reduces the likelihood that someone will choose to perform a certain activity
+			§ E.g. surveillance and monitoring, guard patrols
+		○ Preventive control: 
+			§ These controls prevent a certain activity from happening. 
+			§ E.g. Walls and fences can stop people from entering an area in an unauthorized manner
+			§ DLP, IPS
+		○ Compensating control: 
+			§ Controls that mitigate the effects or risks of the loss of primary controls.
+			§ E.g. Electronic access key pad + Physical lock
+		○ Detective control: 
+			§ Controls that recognize or discover hostile activity. 
+			§ E.g. motion sensors, guards, dogs, intrusion detection systems (IDS) 
+		○ Corrective control: 
+			§ Controls that react to a situation in order to remediate or restore operations. 
+			§ E.g. fire suppression systems, Incident Response teams
+		○ Recovery control: 
+			§ Controls designed to restore operations to a known good condition following a security incident. 
+		○ Note: This form of categorization is not absolute or distinct; many controls can fall into several categories, depending on their implementation and operation.
+	• Scoping and Tailoring
+		○ To implement security frameworks, baselines or standards, organizations may decide to only implement specific parts, through the process of scoping and tailoring.
+		○ Scoping can be defined as limiting the general baseline recommendations by removing those that do not apply.
+			§ Scoping guidance provides an enterprise with specific terms and conditions on the applicability and implementation of individual security controls. 
+		○ Tailoring: 
+The process by which a security control baseline is modified based on (i) the application of scoping guidance, (ii) the specification of compensating security controls, if needed and (iii) the specification of organization-defined parameters in the security controls via explicit assignment and selection statements.
